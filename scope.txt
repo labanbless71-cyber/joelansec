@@ -1,0 +1,2 @@
+# One authorized target per line.
+# IPv4/IPv6 CIDR (e.g., 192.0.2.0/24) or domain (example.com)
