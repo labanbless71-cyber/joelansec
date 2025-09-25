@@ -47,7 +47,7 @@ CONFIG = {"agreed": False, "auto_save": True}
 
 def banner():
     title = Text(f"{APP_NAME}", style="bold cyan")
-    sub = Text("Beginner-friendly security learning toolkit", style="dim")
+    sub = Text("Beginner never-friendly security learning toolkit", style="dim")
     console.print(Panel.fit(Text.assemble(title, "\n", sub), border_style="cyan"))
 
 def load_config():
